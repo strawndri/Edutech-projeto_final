@@ -1,10 +1,10 @@
 # Edutech: Projeto Final
 
-> Status: working in progress 🚧
+> Status: Finalizado ✅
 
 Este é o projeto final do curso de Python para Datascience, o qual foi proporcionado pela SEED-PR em parceria com a Alura. 
 O objetivo é realizar uma análise dos Número de Vagas Oferecidas, Ingressos, Matrículas, Concluintes, Inscritos e Cursos de 
-Graduação Presenciais no Brasil entre os anos de 2009 e 2017
+Graduação Presenciais no Brasil entre os anos de 2009 e 2017.
 
 🔗 [Clique aqui para verificar o edital](https://www.educacao.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-11/2021_desafio_edutech.pdf)
 
@@ -18,11 +18,11 @@ Graduação Presenciais no Brasil entre os anos de 2009 e 2017
  - Base de Dados
    - [Acessar a base de dados](https://www.educacao.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-11/edutech_comparativos_metricas.csv)
 
-2. **Funções** ✏️
+2. **Funções e outras Determinações** ✏️
 
 3. **Tratamento de Dados** 📋
  - Tratamento de casos de células Not a Number (NaN);
- - Renomeando as colunas, (removendo acentos e espaços);
+ - Renomeação de colunas (removendo acentos e espaços).
  
 4. **Análise de Dados** 📊
  - Taxas de crescimento ou decaimento ano a ano para todas as regiões do Brasil;
