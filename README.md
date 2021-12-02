@@ -1,6 +1,6 @@
 # Edutech: Projeto Final
 
-> Status: Finalizado ✅
+> Status: Em finalização 
 
 Este é o projeto final do curso de Python para Datascience, o qual foi proporcionado pela SEED-PR em parceria com a Alura. 
 O objetivo é realizar uma análise dos Número de Vagas Oferecidas, Ingressos, Matrículas, Concluintes, Inscritos e Cursos de 
