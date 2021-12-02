@@ -6,7 +6,7 @@ Este é o projeto final do curso de Python para Datascience, o qual foi proporci
 O objetivo é realizar uma análise dos Número de Vagas Oferecidas, Ingressos, Matrículas, Concluintes, Inscritos e Cursos de 
 Graduação Presenciais no Brasil entre os anos de 2009 e 2017.
 
-🔗 [Clique aqui para verificar o edital](https://www.educacao.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-11/2021_desafio_edutech.pdf)
+🔗 [Clique aqui para verificar o edital](https://www.educacao.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-11/desafio_edutech.pdf)
 
 ## O que você irá encontrar:
 
